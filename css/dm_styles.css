@@ -1,46 +1,22 @@
 @charset "utf-8";
+
 /*  */
+nav.horizontal {
+    display: table;
+    width: 100%;
+}
 
+nav.horizontal ul {
+    display: table-row;
+}
 
+nav.horizontal ul li {
+    display: table-cell;
+    padding: 20px;
+    background-color: lightcyan;
+}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-footer {
-    background-color: lightblue
+nav.horizontal a {
+    padding: 5px;
+    width: 100%;
 }
