@@ -1,6 +1,11 @@
 @charset "utf-8";
 
 /*  */
+html{
+  width:100%;
+  background-color: lightcyan;
+
+}
 nav.horizontal {
     display: table;
     width: 100%;
@@ -13,7 +18,7 @@ nav.horizontal ul {
 nav.horizontal ul li {
     display: table-cell;
     padding: 20px;
-    background-color: lightcyan;
+  background-color: lightblue;
 }
 
 nav.horizontal a {
@@ -22,5 +27,7 @@ nav.horizontal a {
 }
 
 body{
-  background-color: tan;
+  width: 100%;
+    background: url(me_photo.png);
+
 }
