@@ -31,3 +31,32 @@ body{
     background: url(me_photo.png);
 
 }
+
+p{
+  font-size: 1.3em;
+  text-align: center;
+}
+
+
+h1.skiil{
+  text-align: center;
+}
+
+
+
+h2.skil{
+  text-align: center;
+}
+
+h2.exper{
+  text-align: center;
+}
+
+h3.ihs{
+  text-align: center;
+  font-size: 1.3em;
+
+}
+h3.kc{
+  font-size: 1.2em;
+}
